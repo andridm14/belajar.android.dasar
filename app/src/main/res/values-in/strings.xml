@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Belajar Android Dasar</string>
+    <string name="textView">Nama :</string>
+    <string name="sayButton">Tekan Hallo</string>
+    <string name="sayTextView">Hallo %1$s</string>
+
+</resources>
